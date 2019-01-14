@@ -11,12 +11,13 @@
   function MyFeature() {}
 
   MyFeature.prototype.test001 = test001;
-  MyFeature.prototype.test002 = test001;
+  MyFeature.prototype.test002 = test002;
 
 
   function test001() {
     log('Test 001');
     log('Test 001 - update 1');
+    log('Test 001 - update 2');
   }
 
   function test002() {
