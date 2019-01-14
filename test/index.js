@@ -16,6 +16,7 @@
 
   function test001() {
     log('Test 001');
+    log('Test 001 - update 1');
   }
 
   function test002() {
